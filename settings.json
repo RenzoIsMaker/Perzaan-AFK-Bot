@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "24/7_Online",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "VossySMP.aternos.me",
     "port": 61107,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
