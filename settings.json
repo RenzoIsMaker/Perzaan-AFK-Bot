@@ -28,9 +28,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1,
+      "repeat-delay": 1000,
       "messages": [
-        "Niga"
+        "Bye"
       ]
     },
     "chat-log": true,
